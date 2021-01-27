@@ -5,3 +5,60 @@
 * This program will demonstrate how an array works in C#
 */
 
+using System;
+using System.Collections.Generic;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Total_Sales_Hard_Coded
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+        
+        private void displayButton_Click(object sender, EventArgs e)
+        {
+            
+            const int SIZE = 100;
+            decimal[] sales = new decimal[SIZE];
+            
+            int count = 0;
+            decimal totalSales
+            
+            StreamReader inputFile;
+            //using an example below, since there was no document to use
+            inputFile = File.OpenText("../../Sales.txt");
+            
+            try
+            {
+                while (!inputFile.EndOfStream && count < sales.Lenght)
+                {
+                    sales[count] = decimal.Parse(inputFile.ReadLine());
+                    totalSales += sales[count];
+                    ListBox.Items.Add(sales[count]);
+                    count++;
+                }
+                
+                inputFile.Close();
+                
+                TotalSales.Text = totalSales;
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+        }
+        
+        private void button1_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+    }
+}
