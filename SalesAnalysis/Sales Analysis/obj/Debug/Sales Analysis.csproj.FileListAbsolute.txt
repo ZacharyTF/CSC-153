@@ -1,0 +1,10 @@
+D:\Ftcc college courses\Semester 2\CSC 153 0B01\Module 6\Assignments\SalesAnalysis\Sales Analysis\bin\Debug\Sales Analysis.exe.config
+D:\Ftcc college courses\Semester 2\CSC 153 0B01\Module 6\Assignments\SalesAnalysis\Sales Analysis\bin\Debug\Sales Analysis.exe
+D:\Ftcc college courses\Semester 2\CSC 153 0B01\Module 6\Assignments\SalesAnalysis\Sales Analysis\bin\Debug\Sales Analysis.pdb
+D:\Ftcc college courses\Semester 2\CSC 153 0B01\Module 6\Assignments\SalesAnalysis\Sales Analysis\obj\Debug\Sales Analysis.csprojAssemblyReference.cache
+D:\Ftcc college courses\Semester 2\CSC 153 0B01\Module 6\Assignments\SalesAnalysis\Sales Analysis\obj\Debug\Sales_Analysis.Form1.resources
+D:\Ftcc college courses\Semester 2\CSC 153 0B01\Module 6\Assignments\SalesAnalysis\Sales Analysis\obj\Debug\Sales_Analysis.Properties.Resources.resources
+D:\Ftcc college courses\Semester 2\CSC 153 0B01\Module 6\Assignments\SalesAnalysis\Sales Analysis\obj\Debug\Sales Analysis.csproj.GenerateResource.cache
+D:\Ftcc college courses\Semester 2\CSC 153 0B01\Module 6\Assignments\SalesAnalysis\Sales Analysis\obj\Debug\Sales Analysis.csproj.CoreCompileInputs.cache
+D:\Ftcc college courses\Semester 2\CSC 153 0B01\Module 6\Assignments\SalesAnalysis\Sales Analysis\obj\Debug\Sales Analysis.exe
+D:\Ftcc college courses\Semester 2\CSC 153 0B01\Module 6\Assignments\SalesAnalysis\Sales Analysis\obj\Debug\Sales Analysis.pdb
