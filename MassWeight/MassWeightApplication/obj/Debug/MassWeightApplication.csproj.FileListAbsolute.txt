@@ -1,0 +1,10 @@
+D:\Ftcc college courses\Semester 2\CSC 153 0B01\Module 5\Assignments\MassWeight\MassWeightApplication\bin\Debug\MassWeightApplication.exe.config
+D:\Ftcc college courses\Semester 2\CSC 153 0B01\Module 5\Assignments\MassWeight\MassWeightApplication\bin\Debug\MassWeightApplication.exe
+D:\Ftcc college courses\Semester 2\CSC 153 0B01\Module 5\Assignments\MassWeight\MassWeightApplication\bin\Debug\MassWeightApplication.pdb
+D:\Ftcc college courses\Semester 2\CSC 153 0B01\Module 5\Assignments\MassWeight\MassWeightApplication\obj\Debug\MassWeightApplication.csprojAssemblyReference.cache
+D:\Ftcc college courses\Semester 2\CSC 153 0B01\Module 5\Assignments\MassWeight\MassWeightApplication\obj\Debug\MassWeightApplication.MassWeightForm.resources
+D:\Ftcc college courses\Semester 2\CSC 153 0B01\Module 5\Assignments\MassWeight\MassWeightApplication\obj\Debug\MassWeightApplication.Properties.Resources.resources
+D:\Ftcc college courses\Semester 2\CSC 153 0B01\Module 5\Assignments\MassWeight\MassWeightApplication\obj\Debug\MassWeightApplication.csproj.GenerateResource.cache
+D:\Ftcc college courses\Semester 2\CSC 153 0B01\Module 5\Assignments\MassWeight\MassWeightApplication\obj\Debug\MassWeightApplication.csproj.CoreCompileInputs.cache
+D:\Ftcc college courses\Semester 2\CSC 153 0B01\Module 5\Assignments\MassWeight\MassWeightApplication\obj\Debug\MassWeightApplication.exe
+D:\Ftcc college courses\Semester 2\CSC 153 0B01\Module 5\Assignments\MassWeight\MassWeightApplication\obj\Debug\MassWeightApplication.pdb

@@ -1,0 +1,6 @@
+D:\Ftcc college courses\Semester 2\CSC 153 0B01\Module 4\Assignments\EmployeeClass\Employee\bin\Debug\Employee.dll
+D:\Ftcc college courses\Semester 2\CSC 153 0B01\Module 4\Assignments\EmployeeClass\Employee\bin\Debug\Employee.pdb
+D:\Ftcc college courses\Semester 2\CSC 153 0B01\Module 4\Assignments\EmployeeClass\Employee\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+D:\Ftcc college courses\Semester 2\CSC 153 0B01\Module 4\Assignments\EmployeeClass\Employee\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+D:\Ftcc college courses\Semester 2\CSC 153 0B01\Module 4\Assignments\EmployeeClass\Employee\obj\Debug\Employee.dll
+D:\Ftcc college courses\Semester 2\CSC 153 0B01\Module 4\Assignments\EmployeeClass\Employee\obj\Debug\Employee.pdb

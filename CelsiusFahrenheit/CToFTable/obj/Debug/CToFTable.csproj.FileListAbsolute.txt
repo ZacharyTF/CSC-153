@@ -1,0 +1,10 @@
+D:\Ftcc college courses\Semester 2\CSC 153 0B01\Module 5\Assignments\CelsiusFahrenheit\CToFTable\bin\Debug\CToFTable.exe.config
+D:\Ftcc college courses\Semester 2\CSC 153 0B01\Module 5\Assignments\CelsiusFahrenheit\CToFTable\bin\Debug\CToFTable.exe
+D:\Ftcc college courses\Semester 2\CSC 153 0B01\Module 5\Assignments\CelsiusFahrenheit\CToFTable\bin\Debug\CToFTable.pdb
+D:\Ftcc college courses\Semester 2\CSC 153 0B01\Module 5\Assignments\CelsiusFahrenheit\CToFTable\obj\Debug\CToFTable.csprojAssemblyReference.cache
+D:\Ftcc college courses\Semester 2\CSC 153 0B01\Module 5\Assignments\CelsiusFahrenheit\CToFTable\obj\Debug\CToFTable.TempChangeForm.resources
+D:\Ftcc college courses\Semester 2\CSC 153 0B01\Module 5\Assignments\CelsiusFahrenheit\CToFTable\obj\Debug\CToFTable.Properties.Resources.resources
+D:\Ftcc college courses\Semester 2\CSC 153 0B01\Module 5\Assignments\CelsiusFahrenheit\CToFTable\obj\Debug\CToFTable.csproj.GenerateResource.cache
+D:\Ftcc college courses\Semester 2\CSC 153 0B01\Module 5\Assignments\CelsiusFahrenheit\CToFTable\obj\Debug\CToFTable.csproj.CoreCompileInputs.cache
+D:\Ftcc college courses\Semester 2\CSC 153 0B01\Module 5\Assignments\CelsiusFahrenheit\CToFTable\obj\Debug\CToFTable.exe
+D:\Ftcc college courses\Semester 2\CSC 153 0B01\Module 5\Assignments\CelsiusFahrenheit\CToFTable\obj\Debug\CToFTable.pdb
