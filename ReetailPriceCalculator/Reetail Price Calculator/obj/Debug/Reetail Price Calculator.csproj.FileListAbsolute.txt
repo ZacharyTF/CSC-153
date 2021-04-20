@@ -1,0 +1,10 @@
+D:\Ftcc college courses\Semester 2\CSC 153 0B01\Module 3\ReetailPriceCalculator\Reetail Price Calculator\bin\Debug\Reetail Price Calculator.exe.config
+D:\Ftcc college courses\Semester 2\CSC 153 0B01\Module 3\ReetailPriceCalculator\Reetail Price Calculator\bin\Debug\Reetail Price Calculator.exe
+D:\Ftcc college courses\Semester 2\CSC 153 0B01\Module 3\ReetailPriceCalculator\Reetail Price Calculator\bin\Debug\Reetail Price Calculator.pdb
+D:\Ftcc college courses\Semester 2\CSC 153 0B01\Module 3\ReetailPriceCalculator\Reetail Price Calculator\obj\Debug\Reetail Price Calculator.csprojAssemblyReference.cache
+D:\Ftcc college courses\Semester 2\CSC 153 0B01\Module 3\ReetailPriceCalculator\Reetail Price Calculator\obj\Debug\Reetail_Price_Calculator.Form1.resources
+D:\Ftcc college courses\Semester 2\CSC 153 0B01\Module 3\ReetailPriceCalculator\Reetail Price Calculator\obj\Debug\Reetail_Price_Calculator.Properties.Resources.resources
+D:\Ftcc college courses\Semester 2\CSC 153 0B01\Module 3\ReetailPriceCalculator\Reetail Price Calculator\obj\Debug\Reetail Price Calculator.csproj.GenerateResource.cache
+D:\Ftcc college courses\Semester 2\CSC 153 0B01\Module 3\ReetailPriceCalculator\Reetail Price Calculator\obj\Debug\Reetail Price Calculator.csproj.CoreCompileInputs.cache
+D:\Ftcc college courses\Semester 2\CSC 153 0B01\Module 3\ReetailPriceCalculator\Reetail Price Calculator\obj\Debug\Reetail Price Calculator.exe
+D:\Ftcc college courses\Semester 2\CSC 153 0B01\Module 3\ReetailPriceCalculator\Reetail Price Calculator\obj\Debug\Reetail Price Calculator.pdb
